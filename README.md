@@ -1,5 +1,9 @@
 # Clonezilla Altiris Imaging
 
+<p align="center">
+  <img src=".github/logo.png" alt="clonezilla-altiris-imaging logo" width="128" />
+</p>
+
 A Perl script that drives Clonezilla disk imaging using machine settings
 from an Altiris deployment server.
 
